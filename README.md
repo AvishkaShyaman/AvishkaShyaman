@@ -2,7 +2,7 @@
 
 ### I'm a Undergraduage student
 
-- 🔭 I’m currently searching for Software Engineering Intern
+<!-- - 🔭 I’m currently searching for Software Engineering Intern -->
 - 🌱 I’m currently learning the Spring Boot framework
 - 👯 I’m looking to collaborate with other software developers
 - 🤔 I’m looking to Contribute more to projects
